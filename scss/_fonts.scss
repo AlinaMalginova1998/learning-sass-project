@@ -1,0 +1,124 @@
+@import 'vars';
+@import url('../vendor/fonts/Prompt/prompt.css');
+
+%headline-text-desktop {
+  font-family: "Prompt", Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1.33;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $color_black;
+}
+
+%headline-text-tablet {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.25;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $color_black;
+}
+
+%headline-text-mobile {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.33;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $color_black;
+}
+
+%lead-text-desktop {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.38;
+    color: $color_black;
+}
+
+%lead-text-tablet {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.38;
+    color: $color_black;
+}
+
+%lead-text-mobile {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: $color_black;
+}
+
+%buttons-text-desktop {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;    
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: $color_black;
+}
+
+%buttons-text-tablet {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;    
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: $color_black;
+}
+
+%buttons-text-mobile {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.43;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: $color_black;
+}
+
+%text-desktop {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.6;
+    color: $color_black;
+}
+
+%text-tablet {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.6;
+    color: $color_black;
+}
+
+%text-mobile {
+    font-family: "Prompt", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: $color_black;
+}
+
+
